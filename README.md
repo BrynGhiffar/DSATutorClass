@@ -1,2 +1,2 @@
 # DSATutorClass
-Data Structures and Algorithms tutoring class.
+Bryn's Data Structures and Algorithms tutoring class.
